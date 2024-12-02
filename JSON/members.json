@@ -39,5 +39,11 @@
         "name": "Michael Flecha",
         "image": "/images/profiles/michael_flecha.jpg",
         "linkedin": "https://www.linkedin.com/in/michael-flecha"
+    },
+    {
+        "name": "Johnlee Vy",
+        "image": "/images/profiles/johnlee_vy.jpg",
+        "linkedin": "https://www.linkedin.com/in/johnlee-vy-066350338/",
+        "github": "https://github.com/JohnleeVy"
     }
 ]
